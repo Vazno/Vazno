@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vazno
-- 👀 I’m interested in Creativity
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning many things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: Vazno#8410
